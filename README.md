@@ -14,8 +14,8 @@ ESP32  sim7020c (接线)<br/>
 GND    GND<br/>
 12     TXD<br/>
 13     RXD<br/>
-<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_sentence_nbiot/blob/main/7.jpg?raw=true' /> <br/>
-<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_sentence_nbiot/blob/main/8.jpg?raw=true' /> <br/>
+<img src= 'https://github.com//lilygo_epd47_time_show_sentence_nbiot/blob/main/7.jpg?raw=true' /> <br/>
+<img src= 'https://github.com//lilygo_epd47_time_show_sentence_nbiot/blob/main/8.jpg?raw=true' /> <br/>
 <b>三.代码:</b><br/>
 烧录到ESP32开发板<br/>
 A.软件: arduino 1.8.19<br/>
@@ -25,4 +25,6 @@ https://github.com/bblanchon/ArduinoJson 版本: 6<br/>
 https://github.com/adafruit/RTClib RTClib <br/>
 https://github.com/Xinyuan-LilyGO/LilyGo-EPD47 墨水屏驱动<br/>
 C.开发板选择：TTGO-T-WATCH 参数选默认 (字库文件较大，仅用到其分区定义)<br/>
+注： 较新的arduino版本才有这个开发板定义: TTGO T-Watch<br/>
+参考：https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library<br/>
 D.选择端口，点击烧录<br/>
