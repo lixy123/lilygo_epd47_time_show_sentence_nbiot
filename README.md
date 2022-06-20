@@ -23,5 +23,6 @@ B.用到库文件:<br/>
 https://github.com/espressif/arduino-esp32 版本:1.0.6<br/>
 https://github.com/bblanchon/ArduinoJson 版本: 6<br/>
 https://github.com/adafruit/RTClib RTClib <br/>
+https://github.com/Xinyuan-LilyGO/LilyGo-EPD47 墨水屏驱动<br/>
 C.开发板选择：TTGO-T-WATCH 参数选默认 (字库文件较大，仅用到其分区定义)<br/>
 D.选择端口，点击烧录<br/>
