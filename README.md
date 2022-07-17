@@ -19,11 +19,11 @@ GND    GND<br/>
 <img src= 'https://github.com//lilygo_epd47_time_show_sentence_nbiot/blob/main/7.jpg?raw=true' /> <br/>
 <img src= 'https://github.com//lilygo_epd47_time_show_sentence_nbiot/blob/main/8.jpg?raw=true' /> <br/>
 
-<b>(二).NBIOT用QS-100</b>  <br/>
+<b>(二).NBIOT用</b>  <br/>
 1.lilygo-epd47 4.7寸墨水屏 + 锂电池 <br/>
 2.2.0mm转2.54mm杜邦线10cm 4线<br/>
 3.sim7020c 开发板 <br/>
-ESP32  sim7020c (接线)<br/>
+ESP32  QS100 (接线)<br/>
 3.3V   VBAT<br/>
 GND    GND<br/>
 12     TXD<br/>
@@ -38,7 +38,7 @@ GND    GND<br/>
 2.epd47_sim7020_time_show_sentence <br/>
 
 烧录到ESP32开发板<br/>
-A.软件: arduino 1.8.19<br/>
+A.软件: arduino 1.8.19<br/> 
 B.用到库文件:<br/>
 https://github.com/espressif/arduino-esp32 版本:1.0.6<br/>
 https://github.com/bblanchon/ArduinoJson 版本: 6<br/>
