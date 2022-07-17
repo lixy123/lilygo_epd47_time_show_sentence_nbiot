@@ -11,7 +11,7 @@
 1.lilygo-epd47 4.7寸墨水屏 + 锂电池 <br/>
 2.2.0mm转2.54mm杜邦线10cm 4线<br/>
 3.sim7020c 开发板 <br/>
-ESP32  sim7020c (接线)<br/>
+ESP32 --sim7020c (接线)<br/>
 3.3V   VBAT<br/>
 GND    GND<br/>
 12     TXD<br/>
@@ -23,7 +23,7 @@ GND    GND<br/>
 1.lilygo-epd47 4.7寸墨水屏 + 锂电池 <br/>
 2.2.0mm转2.54mm杜邦线10cm 4线<br/>
 3.qs100 开发板 <br/>
-ESP32   (接线)<br/>
+ESP32 --qs100 (接线)<br/>
 3.3V   3.3V<br/>
 GND    GND<br/>
 12     TXD<br/>
