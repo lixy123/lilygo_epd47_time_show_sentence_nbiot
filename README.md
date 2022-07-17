@@ -19,7 +19,7 @@ GND    GND<br/>
 <img src= 'https://github.com//lilygo_epd47_time_show_sentence_nbiot/blob/main/7.jpg?raw=true' /> <br/>
 <img src= 'https://github.com//lilygo_epd47_time_show_sentence_nbiot/blob/main/8.jpg?raw=true' /> <br/>
 
-<b>(二).NBIOT用QS100</b>  <br/>
+<b>(二).NBIOT用QS-100</b>  <br/>
 1.lilygo-epd47 4.7寸墨水屏 + 锂电池 <br/>
 2.2.0mm转2.54mm杜邦线10cm 4线<br/>
 3.sim7020c 开发板 <br/>
