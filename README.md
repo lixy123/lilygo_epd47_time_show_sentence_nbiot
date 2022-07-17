@@ -7,6 +7,7 @@
    B.有些场景没有AP,或单片机连接受限。例如车上，办公室等<br/> 
    
 <b>二.硬件</b>  <br/>
+<b>NBIOT用sim7020c</b>  <br/>
 1.lilygo-epd47 4.7寸墨水屏 + 锂电池 <br/>
 2.2.0mm转2.54mm杜邦线10cm 4线<br/>
 3.sim7020c 开发板 <br/>
@@ -17,6 +18,7 @@ GND    GND<br/>
 13     RXD<br/>
 <img src= 'https://github.com//lilygo_epd47_time_show_sentence_nbiot/blob/main/7.jpg?raw=true' /> <br/>
 <img src= 'https://github.com//lilygo_epd47_time_show_sentence_nbiot/blob/main/8.jpg?raw=true' /> <br/>
+
 <b>三.代码:</b><br/>
 烧录到ESP32开发板<br/>
 A.软件: arduino 1.8.19<br/>
