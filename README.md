@@ -16,8 +16,8 @@ ESP32 --sim7020c (接线)<br/>
 GND    GND<br/>
 12     TXD<br/>
 13     RXD<br/>
-<img src= 'https://github.com//lilygo_epd47_time_show_sentence_nbiot/blob/main/7.jpg?raw=true' /> <br/>
-<img src= 'https://github.com//lilygo_epd47_time_show_sentence_nbiot/blob/main/8.jpg?raw=true' /> <br/>
+<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_sentence_nbiot/blob/main/7.jpg?raw=true' /> <br/>
+<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_sentence_nbiot/blob/main/8.jpg?raw=true' /> <br/>
 
 <b>(二).NBIOT用qs100</b>  <br/>
 1.lilygo-epd47 4.7寸墨水屏 + 锂电池 <br/>
@@ -28,8 +28,8 @@ ESP32 --qs100 (接线)<br/>
 GND    GND<br/>
 12     TXD<br/>
 13     RXD<br/>
-<img src= 'https://github.com//lilygo_epd47_time_show_sentence_nbiot/blob/main/11.jpg?raw=true' /> <br/>
-<img src= 'https://github.com//lilygo_epd47_time_show_sentence_nbiot/blob/main/12.jpg?raw=true' /> <br/>
+<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_sentence_nbiot/blob/main/11.jpg?raw=true' /> <br/>
+<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_sentence_nbiot/blob/main/12.jpg?raw=true' /> <br/>
 
 <b>三.代码:</b><br/>
 根据所用NBIOT模块不同选择不同目录下的程序:<br/>
