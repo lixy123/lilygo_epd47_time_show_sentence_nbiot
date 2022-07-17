@@ -34,9 +34,10 @@ GND    GND<br/>
 <b>三.代码:</b><br/>
 根据所用NBIOT模块不同选择不同目录下的程序:<br/>
 1.epd47_sim7020_time_show_sentence <br/>
-
+  nbiot用sim7020c<br/>
 2.epd47_qs100_time_show_sentence <br/>
-
+  nbiot用<br/>
+  
 烧录到ESP32开发板<br/>
 A.软件: arduino 1.8.19<br/> 
 B.用到库文件:<br/>
