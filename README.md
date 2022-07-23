@@ -36,7 +36,7 @@ GND    GND<br/>
 1.epd47_sim7020_time_show_sentence <br/>
   nbiot用sim7020c<br/>
 2.epd47_qs100_time_show_sentence <br/>
-  nbiot用<br/>
+  nbiot用qs100<br/>
   
 烧录到ESP32开发板<br/>
 A.软件: arduino 1.8.19<br/> 
